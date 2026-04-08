@@ -11,5 +11,6 @@ I am a **Mathematics-Computer Science** and **Cognitive Science** student at **U
 
 ### Favorite Programming Language
 My favorite language is **Python**. Here is a quick snippet:
+
 ```python
 print("Hello from Lab 1!")
