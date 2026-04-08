@@ -7,7 +7,7 @@ I am a **Mathematics-Computer Science** and **Cognitive Science** student at **U
 - [x] Create GitHub Repository
 - [x] Configure .gitignore for PRIVATE.txt
 - [x] Upload screenshots to /screenshots folder
-- [ ] Submit to Gradescope
+- [x] Submit to Gradescope
 
 ### Favorite Programming Language
 My favorite language is **Python**. Here is a quick snippet:
